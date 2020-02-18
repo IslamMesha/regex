@@ -1,0 +1,11 @@
+thead {
+    background-color: gray;
+}
+
+td {
+    font: 20px bold;
+}
+
+.page-content {
+    color: lawngreen;
+}
